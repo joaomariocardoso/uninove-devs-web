@@ -1,6 +1,10 @@
 # Uninove Devs Web
 
-Com o objetivo de compartilhar conhecimento, alguns alunos da Faculdade Uninove tiveram a iniciativa de formar um grupo de estudos onde serão abordados diversos assuntos relacionados ao desenvolvimento para internet. Inicialmente iremos aprimorar nossos conhecimentos em HTML, CSS e JavaScript, linguagens indispensáveis no desenvolvimento Front-End e uma ótima forma de começar a se aventurar nesse universo tão grande e promissor.
+Com o objetivo de compartilhar conhecimento, alguns alunos da Faculdade Uninove tiveram a iniciativa de formar um grupo de estudos onde serão abordados diversos assuntos relacionados ao desenvolvimento para internet. 
+
+Inicialmente iremos aprimorar nossos conhecimentos em HTML, CSS e JavaScript, linguagens indispensáveis no desenvolvimento Front-End e uma ótima forma de começar a se aventurar nesse universo tão grande e promissor.
+
+O GitHub foi o serviço escolhido para hospedar nosso projeto e tornar a contribuição de todos os envolvidos mais prática.
 
 Quer participar dessa jornada?
 Siga os passos abaixo:
