@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8" />
+		<title>Titulo do projeto</title>
+		<meta name="title" content="Repetir Titulo"/>
+		<meta content="Texto de Descrição do Conteúdo" name="description">
+		<meta content="palavras, chaves" name="keywords">
+	
+	<!-- 
+		ARQUIVOS CSS
+	
+		O que é o arquivo normalize.css?
+
+		# Normalize é um CSS Reset;
+		# O que é CSS Reset? Link: http://tableless.com.br/css-reset/;
+		# Resumindo: Por padrão os elementos HTML já possuem propriedades como: margin, padding e borda definidos, isso é feito apresentar os elementos de uma forma mais 'bonitinha' quando não existe nenhum CSS. O problema é que isso atrapalha pra caramba, porque muitas dessas propriedades não serão utilizadas no projeto e deixa-las irá resultar em quebra de estrutura, bugs e etc; ddddd
+		# Porque usar um CSS Reset? O reset irá zerar essas propriedades, deixando sua estrutura totalmente limpa de valores indesejados.
+
+		________________\\_______________
+
+		O que é o arquivo style.css?
+
+		# Nesse arquivo iremos inserir todo nosso código CSS, para estilizar nossas páginas. 
+
+		________________\\_______________
+
+		O que é o arquivo font-awesome.min.css?
+
+		# Sabe aqueles ícones simples e bonitos pra caramba? Que possívelmente iríamos fazer com uma ou mais imagens? Então... Não é necessário fazer com imagem, podemos fazer com fonte. o/
+
+		O http://fortawesome.github.io/Font-Awesome/icons/ é um conjunto de fontes com diversos símbolos e figuras, te livrando do trabalho de ter que recortar e editar imagens. Além de proporcionar uma melhora no carregando da sua página, já que você não está utilizando uma imagem e uma fonte carrega relativamente mais rápido.  
+	-->
+
+		<link rel="stylesheet" type="text/css" href="css/normalize.css">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+	</head>
+	
+	<body>
+
+		<!-- [TOPO DO SITE] -->
+		<header>
+
+			<!-- ESSA DIV SERVIRÁ PARA SEPARAR A ÁREA DE ATENCIMENTO E OPÇÕES PARA O VISITANTE -->
+			<div>
+
+				<!-- TEXTO INFORMATIVO SOBRE HORÁRIO DE ATENDIMENTO E TELEFONE -->
+				<div>
+					<p>Horário de Atendimento: <b>Seg a Sex das 9:00 ás 17:30</b></p>
+					<p>Compre também pelo telefone: <b>(16) 3341 6589</b></p>
+				</div>
+				
+				<!-- PEQUENA LIST NÃO ORDENADA -->
+				<ul>
+					<!-- OPÇÃO 'Olá Visitante' -->
+					<li>
+						<a href="">
+							Olá visitante 
+							<i class="fa fa-caret-down"></i>
+						</a>
+					</li>
+
+					<!-- OPÇÃO 'Carrinho de compras' -->
+					<li>
+						<a href="#">
+							<i class="fa fa-shopping-cart"></i> 
+							0 itens 
+							<i class="fa fa-caret-down"></i>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</header>
+	</body>
+</html>
