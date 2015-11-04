@@ -27,7 +27,7 @@ Posts sensacionais e que irão te dar uma luz gigantesca.
 Primeiros passos com HTML e CSS
 -------------------------------
 
-* [CSS desde o início](http://www.maujor.com/tutorial/joe/cssjoe1.php)
+* [CSS desde o início](http://www.maujor.com/tutorial/joe/cssjoe1.php).
 
 
 .Code, o nosso canal no Youtube
