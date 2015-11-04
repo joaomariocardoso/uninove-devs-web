@@ -39,4 +39,4 @@ O [canal .code](http://dotcode.net.br/youtube) será outra grande fonte de conhe
 Nossa primeira missão
 ---------------------
 
-O primeiro objetivo do grupo é estudar o site [Ibitinga Enxoval](www.ibitingaenxoval.com.br), levantar os pontos que nos agradam na estrutura, criar um layout simples e a partir dai mandar bala no HTML, CSS e JavaScript.
+O primeiro objetivo do grupo é estudar o site [Ibitinga Enxoval](http://www.ibitingaenxoval.com.br), levantar os pontos que nos agradam na estrutura, criar um layout simples e a partir dai mandar bala no HTML, CSS e JavaScript.
