@@ -19,7 +19,7 @@ Primeiros passos com o Git / GitHub
 * [Iniciando no GIT – Parte 1](http://tableless.com.br/iniciando-no-git-parte-1/);
 * [Iniciando no GIT – Parte 2](http://tableless.com.br/iniciando-no-git-parte-2/);
 * [Contribuindo em projetos open source com o github](http://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/);
-* [Tudo que você queria saber sobre Git e GitHub, mas tinha vergonha de perguntar](http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/),
+* [Tudo que você queria saber sobre Git e GitHub, mas tinha vergonha de perguntar](http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/).
 
 Posts sensacionais e que irão te dar uma luz gigantesca.
 
