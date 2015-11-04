@@ -6,8 +6,7 @@ Inicialmente iremos aprimorar nossos conhecimentos em HTML, CSS e JavaScript, li
 
 O GitHub foi o serviço escolhido para hospedar nosso projeto e tornar a contribuição de todos os envolvidos mais prática.
 
-Quer participar dessa jornada?
-Siga os passos abaixo:
+Quer participar dessa jornada? Siga os passos abaixo:
 
 1. Crie uma conta aqui no [GitHub](https://github.com/join);
 2. Siga os membros que estão contribuindo nesse projeto batuta, olha o link [aqui](https://github.com/joaomariocardoso/uninove-devs-web/graphs/contributors);
@@ -17,10 +16,10 @@ Siga os passos abaixo:
 Primeiros passos com o Git / GitHub
 -----------------------------------
 
-[Iniciando no GIT – Parte 1](http://tableless.com.br/iniciando-no-git-parte-1/)
-[Iniciando no GIT – Parte 2](http://tableless.com.br/iniciando-no-git-parte-2/)
-[Contribuindo em projetos open source com o github](http://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/)
-[Tudo que você queria saber sobre Git e GitHub, mas tinha vergonha de perguntar](http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
+* [Iniciando no GIT – Parte 1](http://tableless.com.br/iniciando-no-git-parte-1/);
+* [Iniciando no GIT – Parte 2](http://tableless.com.br/iniciando-no-git-parte-2/);
+* [Contribuindo em projetos open source com o github](http://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/);
+* [Tudo que você queria saber sobre Git e GitHub, mas tinha vergonha de perguntar](http://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/),
 
 Posts sensacionais e que irão te dar uma luz gigantesca.
 
@@ -28,7 +27,7 @@ Posts sensacionais e que irão te dar uma luz gigantesca.
 Primeiros passos com HTML e CSS
 -------------------------------
 
-[CSS desde o início](http://www.maujor.com/tutorial/joe/cssjoe1.php)
+* [CSS desde o início](http://www.maujor.com/tutorial/joe/cssjoe1.php)
 
 
 .Code, o nosso canal no Youtube
