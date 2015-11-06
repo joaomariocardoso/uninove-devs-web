@@ -1,2 +1,3 @@
 # Ignorar arquivos específicos
 .DS_Store
+.gitignore
