@@ -14,8 +14,9 @@
 
 
 /*******************************************************************************
-* DefiniÃ§Ã£o de Blocos 
+* Definição de Blocos
 ********************************************************************************/
+
 
 
 /*******************************************************************************
@@ -46,11 +47,43 @@ body{
 /*******************************************************************************
 * Estilos Projeto
 ********************************************************************************/
+#form_cont ul {
+	padding:0px;
+	margin:0px;
+	background-color:#333333;
+	list-style:none;
+	float:right;
+	color:#FFFFFF;
+}
+#form_cont ul li { display: inline; }
 
+#form_cont2 ul{
+padding:0px;
+	margin:0px;
+	background-color:#333333;
+	list-style:none;
+	float:left;
+	color:#FFFFFF;
+}
+#form_cont2 ul li { display: inline; }	
 /***********************************
 * PÃ¡gina Inicial [HOME]
 ************************************/
-	
+*{margin:0 padding:0; border:0}
+
+body{background:#000000;padding:5px}
+
+div#site_um{background:#999999; width:990px; margin:auto; padding:5px;}
+	 
+div#topo{background:#333333;height:120px;}
+
+div#menu{background:#333333: height:30px; margin-top:5pix;}
+
+div#conteudo{background:#333333; height:500px;width:750px;margin-top:5px; margin-bottom:5px;float:right;}
+
+div#sidebar{background:#333; height:500px; margin-top:5px; width:235px;float:left;}
+
+div#rodape{background:#333333; height:80px;clear:both;}	
 
 
 
